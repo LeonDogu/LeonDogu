@@ -1,9 +1,10 @@
+## Hi, I'm Leon 👋
 ![Bild 2025-04-08 um 17 03 03_e9d5e28b_11zon](https://github.com/user-attachments/assets/227a4bc5-e109-46e5-8fd4-0c55837f213b)
 
 
-## Hi there 👋, 
 
-I'm Leon Dogu
+
+
 - Currently: BSc Business Information Systems Student at  University of Muenster
 
 
