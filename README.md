@@ -1,5 +1,4 @@
 
-![ChatGPT Image 8  Apr  2025, 16_57_22_11zon](https://github.com/user-attachments/assets/5c8f7638-bd72-4906-89d4-89e7d3a76e77)
 
 ## Hi there 👋, 
 
