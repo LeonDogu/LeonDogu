@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, 
 
-<!--
-**LeonDogu/LeonDogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leon Dogu
+- Currently: BSc Business-IS Student at  University of Muenster
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm Currently Learning
+
+University of Muenster
+
+- Security of Distributed Systems
+- Data Science and Analytics
+- Digital Work and Project Management
+
+Projects
+- Finace Tracker for Mobile Platforms
