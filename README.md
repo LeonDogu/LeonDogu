@@ -18,4 +18,4 @@ University of Muenster
 - Digital Work and Project Management
 
 ## Projects
-- Finace Tracker for Mobile Platforms
+- Finance Tracker for Mobile Platforms
