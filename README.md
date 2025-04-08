@@ -1,7 +1,7 @@
 ## Hi there 👋, 
 
 I'm Leon Dogu
-- Currently: BSc Business-IS Student at  University of Muenster
+- Currently: BSc Business Information Systems Student at  University of Muenster
 
 
 
