@@ -15,5 +15,5 @@ University of Muenster
 - Data Science and Analytics
 - Digital Work and Project Management
 
-Projects
+## Projects
 - Finace Tracker for Mobile Platforms
