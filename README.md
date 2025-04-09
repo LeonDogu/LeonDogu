@@ -19,3 +19,4 @@ University of Muenster
 
 ## Projects
 - Finance Tracker for Mobile Platforms
+https://github.com/LeonDogu/finance-tracker
