@@ -16,6 +16,4 @@ University of Muenster
 - Data Science and Analytics
 - Digital Work and Project Management
 
-## Projects
-- Finance Tracker for Mobile Platforms
-https://github.com/LeonDogu/finance-tracker
+
