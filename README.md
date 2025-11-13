@@ -1,4 +1,4 @@
-## Hi, I'm Leon 👋
+## Hi, I'm Leon 
 
 
 
@@ -12,7 +12,7 @@
 
 University of Muenster
 
-- Security of Distributed Systems
+- Software Engineering
 - Data Science and Analytics
 - Digital Work and Project Management
 
